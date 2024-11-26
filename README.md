@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Kaveri2210
+- 👋 Hi, I’m Kaveri Gavhane.
 - 👀 I’m interested in Automation testing.
 - 🌱 I’m currently learning various tools for Automation testing.
-- 💞️ I’m looking to collaborate on..
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on automation testing projects, especially in areas like test automation frameworks, CI/CD pipelines, and integration testing with tools such as Cypress, Selenium, and Appium.
+- 📫 How to reach me Kaveri2210.
 
 
 <!---
